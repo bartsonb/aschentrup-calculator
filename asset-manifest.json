@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aschentrup-calculator/static/css/main.79888730.css",
+    "main.js": "/aschentrup-calculator/static/js/main.f8f5fdf8.js",
+    "static/js/787.fa0930ec.chunk.js": "/aschentrup-calculator/static/js/787.fa0930ec.chunk.js",
+    "index.html": "/aschentrup-calculator/index.html",
+    "main.79888730.css.map": "/aschentrup-calculator/static/css/main.79888730.css.map",
+    "main.f8f5fdf8.js.map": "/aschentrup-calculator/static/js/main.f8f5fdf8.js.map",
+    "787.fa0930ec.chunk.js.map": "/aschentrup-calculator/static/js/787.fa0930ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79888730.css",
+    "static/js/main.f8f5fdf8.js"
+  ]
+}
