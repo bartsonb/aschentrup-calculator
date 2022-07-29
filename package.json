@@ -1,7 +1,7 @@
 {
     "name": "Aschentrup Calculator",
     "version": "0.1.0",
-    "homepage": "https://barsonb.github.io/aschentrup-calculator",
+    "homepage": "https://bartsonb.github.io/aschentrup-calculator",
     "private": true,
     "author": "Armin Bartnik <armin.bartnik@googlemail.com>",
     "description": "Web-based 2D sketcher for creating, importing and exporting stowage plans.",

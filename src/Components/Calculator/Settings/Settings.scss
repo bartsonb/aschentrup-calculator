@@ -1,0 +1,42 @@
+.Settings {
+    border: solid 1px rgb(14, 111, 176);
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    margin-bottom: 1em;
+
+    &__Buttons {
+        display: flex;
+        flex-direction: column;
+        padding: 1em;
+
+        &__Element {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            &__Name {
+            }
+
+            &__Button {
+                padding: .5em;
+                border: solid 1px #ccc;
+                border-radius: 4px;
+            }
+        }
+
+        &__Element:not(:last-child) {
+            margin-bottom: .5em;
+        }
+
+        &--closed {
+            display: none;
+        }
+    }
+
+    &__Toggle {
+        padding: .5em;
+        font-weight: bold;
+        color: #fff;
+        background-color: rgb(14, 111, 176);
+    }
+}
